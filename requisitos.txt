@@ -1,0 +1,24 @@
+Regras
+    o Projeto deve estar em um repositorio remoto no github
+
+1.Calculadora Simples:Crie funções para as operações básicas de uma calculadora (adição, subtração, multiplicação e divisão). Escreva testes para verificar se essas funções estão produzindo os resultados esperados para diferentes conjuntos de números.
+
+2.Verificador de Palíndromos:Implemente uma função que verifica se uma string é um palíndromo (ou seja, se ela é a mesma quando lida de trás para frente). Escreva testes para verificar se a função está identificando corretamente os palíndromos e não palíndromos.
+
+3.Conversor de Temperatura:
+Escreva funções para converter temperaturas de Celsius para Fahrenheit e vice-versa. Crie testes para garantir que essas funções estejam convertendo corretamente os valores.
+
+4.Validador de CPF:Desenvolva uma função que valide se um número de CPF é válido de acordo com as regras estabelecidas. Escreva testes para verificar se a função está identificando corretamente CPFs válidos e inválidos.
+
+5.Verificador de Números Primos:
+Crie uma função que determine se um número é primo ou não. Escreva testes para verificar se a função está identificando corretamente números primos e não primos.
+
+6.Ordenador de Listas:Desenvolva uma função que ordene uma lista de números em ordem crescente ou decrescente. Escreva testes para garantir que a função esteja ordenando corretamente as listas.
+
+7.Validador de Senha:Crie uma função que valide se uma senha atende a determinados critérios de segurança, como comprimento mínimo, uso de letras maiúsculas, minúsculas, números e caracteres especiais. Escreva testes para verificar se a função está validando corretamente as senhas.
+
+8. Validador de E-mail:Desenvolva uma função que valide se um endereço de e-mail é válido de acordo com as regras estabelecidas para endereços de e-mail. Escreva testes para verificar se a função está identificando corretamente endereços de e-mail válidos e inválidos.
+
+9. Simulador de Jogo de Dados:Implemente uma função que simule o lançamento de dados e retorne o resultado. Escreva testes para verificar se a função está gerando resultados dentro do intervalo esperado para um dado comum (de 1 a 6).
+
+10.Validador de Número de Cartão de Crédito:Crie uma função que valide se um número de cartão de crédito é válido de acordo com o algoritmo de Luhn. Escreva testes para verificar se a função está identificando corretamente números de cartão de crédito válidos e inválidos.
